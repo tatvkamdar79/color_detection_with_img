@@ -6,3 +6,5 @@ Once downloaded open commanline or Command Prompt depending on your system, and 
 python color_detection.py -i colorpic.jpg
 
 A window will open and you will be able to click on a section of the image which will reflect on the top left corner as to what color it is.
+
+Click "esc" to exit the program.
